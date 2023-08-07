@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 login 1
+=======
+master 1
+>>>>>>> b9001c20bab33025ea6077f19034c0f8e3048533
 -
 login 2
 -
